@@ -15,7 +15,7 @@ I am on an exciting learning journey, where I embrace challenges as opportunitie
 I am open to collaborating on practical projects that align with my interests. If you have any exciting project ideas or if you think we can create something great together, feel free to reach out to me.
 
 ## 🌐 LinkedIn
-Let's connect on LinkedIn! You can find my profile here: [Seemant Kaushal]https://www.linkedin.com/in/harshit-choudhary-b4b01722b/
+Let's connect on LinkedIn! You can find my profile here: [Harshit Choudhary]https://www.linkedin.com/in/harshit-choudhary-b4b01722b/
 (Feel free to explore my professional journey and experiences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshitChoudhry&color=brightgreen)
