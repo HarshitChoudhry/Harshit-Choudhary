@@ -19,7 +19,7 @@ I am open to collaborating on practical projects that align with my interests. I
 Let's connect on LinkedIn! You can find my profile here: https://www.linkedin.com/in/harshit-choudhary-b4b01722b/. 
 Feel free to explore my professional journey and experiences.
 
-![](https://komarev.com/ghpvc/?username=https://github.com/HarshitChoudhry)
+![](https://komarev.com/ghpvc/?username=HarshitChoudhry)
 
 ## 🔧 Tech Stack
 Here are some of the technologies and programming languages I work with:
