@@ -1,4 +1,4 @@
-# Harshit-Choudhary# 👋 Hello, I’m Harshit Choudhary
+# HarshitChoudhry# 👋 Hello, I’m Harshit Choudhary
 Welcome to my profile! I'm a tech enthusiast eager to explore new and innovative technologies. I believe in continuous learning and strive to extract valuable lessons from every experience life offers. Currently, I'm honing my skills to keep up with the dynamic world of technology.
 
 ## 🚀 Interests
